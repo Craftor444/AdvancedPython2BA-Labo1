@@ -1,6 +1,6 @@
 def fact(n):
 	"""Computes the factorial of a natural number.
-	
+	#prout
 	Pre: -
 	Post: Returns the factorial of 'n'.
 	Throws: ValueError if n < 0
